@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MvcPL.Models.UserViewModel>
+
+@{
+    ViewBag.Title = "UserList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center">Список пользователей</h2>
+<table align="center" border="1">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+      
+        <th>
+            @Html.DisplayNameFor(model => model.Role)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayTextFor(modelItem => item.Role)
+            </td>
+            <td>
+                @Html.ActionLink("Редактировать", "Edit", new { id=item.UserId }) |
+                @Html.ActionLink("Вся информация", "Details", new {id=item.UserId }) |
+                @Html.ActionLink("Удалить", "Delete", new { id = item.UserId})
+            </td>
+        </tr>
+    }
+</table>
+
+<p>
+    <div class="badge">
+    @Html.ActionLink("Добавить пользователя", "Create")
+    </div>
+</p>

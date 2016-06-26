@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MvcPL.Models.SectionViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-2">
+    <div class="collapse navbar-collapse" id="myNavbar">
+        @foreach (var item in Model)
+        {
+            @Html.Partial("_SectionList", item)
+        }
+    </div>
+</div>
+<div class="col-md-10">
+    <div class="container-fluid">
+        <div class="col-sm-8" style="background-color:lavender;">Тема/ Автор</div>
+        <div class="col-sm-2" style="background-color:lavenderblush;">Дата</div>
+        <div class="col-sm-2" style="background-color:lavender;">Категория</div>
+    </div>
+
+    <div class="container-fluid">
+        @foreach (var section in Model)
+            {
+                foreach (var post in section.PostsInSection)
+                {
+                <hr>
+                <div class="col-sm-8" style="background-color:lavender;">
+                    @Html.ActionLink(post.AuthorLogin, "UserPage", "User", new { id = post.AuthorId }, new { @class = "text-center" }):
+                    @Html.ActionLink(post.PostName, "SinglePost", "Post", new { id = post.PostId }, new { @class = "text-center" });
+                </div>
+                    <div class="col-sm-2" style="background-color:lavenderblush;">@Html.DisplayFor(modelItem => post.DateOfPost)</div>
+                    <div class="col-sm-2" style="background-color:lavender;">@Html.DisplayFor(modelItem => section.SectionName)</div>
+
+            }
+
+        }
+    </div>
+</div>

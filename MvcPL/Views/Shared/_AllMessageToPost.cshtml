@@ -1,0 +1,7 @@
+﻿@model MvcPL.Models.MessageViewModel
+
+<div>
+    <ul>
+        <li class="badge">@Html.TextArea(Model.Body.ToString(), "Ответ", new { id = Model.Id})</li>
+    </ul>
+</div>

@@ -1,0 +1,30 @@
+﻿<div class="col-md-12">
+    <div class="text-info">
+        <p><h4 id="comments"> Ответы </h4> </p>
+    </div>
+    <ul id="comments">
+        @foreach (var comment in Model.MessagesToPost)
+            {
+            <li class="badge" style="color:steelblue">
+                <p>@comment.AuthorLogin </p>
+                @comment.Body
+                <p> @comment.DateOfPost </p>
+                @*@if (User.Identity.Name == comment.AuthorLogin || User.IsInRole("Administrator"))
+                {
+                    @Html.ActionLink("Удалить", "Delete", new { id = comment.Id })
+
+                }*@
+                @if (User.Identity.Name == comment.AuthorLogin || User.IsInRole("Administrator"))
+                {
+                    @Ajax.ActionLink("Удалить", "DeleteMessage", "Post", new { id = comment.Id, postId = comment.PostId }, new AjaxOptions
+               {
+                   UpdateTargetId = "comments"
+               })
+                }
+            </li>
+                <p> </p>
+
+        }
+    </ul>
+</div>
+

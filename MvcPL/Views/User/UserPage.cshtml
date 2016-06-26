@@ -1,0 +1,14 @@
+﻿@model MvcPL.Models.UserViewModel
+
+@{
+    ViewBag.Title = "UserPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="badge" style="width: 600px;display: block; margin-left: auto;margin-right: auto; color:steelblue">
+    <h3>@Model.Email</h3>
+    <h3>Роль пользователя на сайте:@Model.Role</h3>
+    <h3>Вопросов: @Model.UserPost.Count()</h3>
+    <h3>Ответов: @Model.UserMessage.Count()</h3>
+
+</div>
+

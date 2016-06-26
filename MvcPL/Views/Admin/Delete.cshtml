@@ -1,0 +1,20 @@
+﻿@model MvcPL.Models.UserViewModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>User delete</h2>
+<div>Вы цверены, что хотите удалить пользователя <b>@Html.DisplayFor(model => model.Login)</b>?</div>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Delete" />
+    </p>
+    <p>
+        <div class="badge">
+            @Html.ActionLink("Назад к списку пользователей", "UserList")
+        </div>
+    </p>
+}

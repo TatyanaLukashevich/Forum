@@ -1,0 +1,116 @@
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interface.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+D:\training\homework\example\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+D:\training\homework\example\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+D:\training\homework\example2\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll.config
+D:\training\homework\example2\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+D:\training\homework\example2\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll.config
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interface.csprojResolveAssemblyReference.cache
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll.config
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll.config
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll.config
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interface.csprojResolveAssemblyReference.cache
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll.config
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\DAL.Interfacies.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\DAL.Interfacies.pdb
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interface.csprojResolveAssemblyReference.cache
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll.config
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\DAL.Interfacies.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\DAL.Interfacies.pdb
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interface.csprojResolveAssemblyReference.cache
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll.config
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\DAL.Interfacies.dll
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.dll
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.dll
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\DAL.Interfacies.pdb
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.xml
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.xml
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interface.csprojResolveAssemblyReference.cache
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+E:\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll.config
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\BLL.Interfacies.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\DAL.Interfacies.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\DAL.Interfacies.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\bin\Debug\EntityFramework.SqlServer.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interface.csprojResolveAssemblyReference.cache
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\BLL.Interfacies\obj\Debug\BLL.Interfacies.pdb

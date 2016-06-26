@@ -1,0 +1,20 @@
+﻿@model MvcPL.Models.PostViewModel
+
+@{
+    ViewBag.Title = "DeletePost";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Удалить пост</h2>
+<div>Вы уверены, что хотите удалить пост <b>@Html.DisplayFor(model => model.PostName)</b>?</div>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Delete" />
+    </p>
+    <p>
+        <div class="badge">
+            @Html.ActionLink("Назад", "Details", "Admin", new { id = Model.AuthorId }, new { @class = "text-center" })
+        </div>
+    </p>
+}

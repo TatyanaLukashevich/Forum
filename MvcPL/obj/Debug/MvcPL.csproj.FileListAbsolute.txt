@@ -1,0 +1,986 @@
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\MvcPL.dll.config
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\MvcPL.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\MvcPL.pdb
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\Antlr3.Runtime.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\BLL.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\BLL.Interfacies.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\DAL.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\DAL.Interfacies.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\EntityFramework.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\Newtonsoft.Json.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\ORM.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Net.Http.Formatting.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.Http.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.Http.WebHost.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.Mvc.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.Optimization.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.Providers.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.Razor.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.WebPages.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.WebPages.Razor.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\WebGrease.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\BLL.Interfacies.pdb
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\BLL.pdb
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\DAL.Interfacies.pdb
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\DAL.pdb
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\ORM.pdb
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\EntityFramework.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\Newtonsoft.Json.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Net.Http.Formatting.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.Http.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.Http.WebHost.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.Mvc.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.Razor.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.WebPages.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\System.Web.WebPages.Razor.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\obj\Debug\MvcPL.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\obj\Debug\MvcPL.pdb
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\EntityFramework.SqlServer.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\Ninject.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\EntityFramework.SqlServer.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\Ninject.xml
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\DependencyResolver.dll
+C:\Users\MIB\Desktop\RepositoryAndUoWAndEF\MvcPL\bin\DependencyResolver.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+\\vmware-host\Shared Folders\MIB On My Mac\Desktop\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo\ProjectArchitectureDemo_1\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo2015\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+C:\Users\MIB\Desktop\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+d:\training\лекции\Day8\example\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+D:\training\homework\example\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.dll
+D:\training\homework\example2\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+D:\training\homework\example2.providers - Copy\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+D:\training\homework\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.dll
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.xml
+D:\Google chrome\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.dll
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.xml
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+D:\training\example2_WORKING\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.xml
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+D:\tfs\mvc5\epam\example2.WORKING\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.xml
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+D:\tfs\mvc5\epam\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.xml
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+D:\epam_project\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.xml
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+E:\epam_project\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll.config
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\MvcPL.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Antlr3.Runtime.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Optimization.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Providers.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebActivatorEx.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebGrease.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\ORM.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.Interfacies.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DependencyResolver.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Common.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Helpers.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\Newtonsoft.Json.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Net.Http.Formatting.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Http.WebHost.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Mvc.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.Razor.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Deployment.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\System.Web.WebPages.Razor.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.WebData.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.Interfacies.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\DAL.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\ORM.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\BLL.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\WebMatrix.Data.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\obj\Debug\MvcPL.pdb
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\PagedList.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\PagedList.Mvc.dll
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\PagedList.xml
+D:\tfs\mvc5\epam_project\ProjectArchitectureDemo_1\MvcPL\bin\PagedList.Mvc.xml

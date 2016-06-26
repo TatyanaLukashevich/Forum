@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Cabinet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm("Cabinet", "User", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <h4>Кабинет пользователя</h4>
+    <hr />
+
+    <div class="badge">
+       
+            @if (User.IsInRole("BannedUser"))
+            {
+           <h2>Здравствуйте, ваш аккаунт был заблокирован в связи с нарушениями правил форума.</h2>
+            }
+            else
+            {
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Новый пост", "CreatePost", "Post")</li>
+                    <li>@Html.ActionLink("Мои посты", "UserPost", "Post")</li>
+                    <li>@Html.ActionLink("Редактировать данные", "EditInfo") </li>
+                    <li>@Html.ActionLink("Удалить аккаунт", "DeleteAccount", "Account") </li>
+                </ul>
+            }
+
+    </div>
+}
+
+

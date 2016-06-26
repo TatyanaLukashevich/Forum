@@ -1,0 +1,16 @@
+﻿@model IEnumerable<MvcPL.Models.PostViewModel>
+
+@{
+    ViewBag.Title = "JsonSearch";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="searchresults">
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@Html.ActionLink(item.PostName, "SinglePost", "Post", new { id = item.PostId }, new { @class = "text-center" })</li>
+        }
+    </ul>
+
+</div>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="92e9977b18cb440b972ea71ef87f75eb" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="dbContextModel.Message" Width="1.5" PointX="8.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbContextModel.Post" Width="1.5" PointX="6" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbContextModel.Role" Width="1.5" PointX="3.75" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbContextModel.Section" Width="1.5" PointX="0.5" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbContextModel.User" Width="1.5" PointX="0.625" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="dbContextModel.FK_dbo_Messages_dbo_Messages_ReplyId" ManuallyRouted="false" >
+        </AssociationConnector>
+        <AssociationConnector Association="dbContextModel.FK_dbo_Messages_dbo_Posts_PostId" ManuallyRouted="false" />
+        <AssociationConnector Association="dbContextModel.FK_dbo_Messages_dbo_Users_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="dbContextModel.FK_dbo_Posts_dbo_Sections_SectionId" ManuallyRouted="false" />
+        <AssociationConnector Association="dbContextModel.FK_dbo_Posts_dbo_Users_Author_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="dbContextModel.FK_dbo_Users_dbo_Roles_RoleId" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

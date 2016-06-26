@@ -1,0 +1,35 @@
+﻿@model MvcPL.Models.SectionViewModel
+
+<table align="center" border="1" width="500" >
+    <tr>
+        <th>
+            @Html.DisplayName("Автор")
+        </th>
+        <th>
+            @Html.DisplayName("Тема поста")
+        </th>
+
+        <th>
+            @Html.DisplayName("Дата создания")
+        </th>
+
+    </tr>
+
+    @foreach (var post in Model.PostsInSection)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => post.AuthorLogin)
+            </td>
+            <td>
+                @Html.ActionLink(post.PostName, "SinglePost", "Post", new { id = post.PostId }, new { @class = "text-center" });
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => post.DateOfPost)
+            </td>
+        </tr>
+    }
+
+
+</table>
+

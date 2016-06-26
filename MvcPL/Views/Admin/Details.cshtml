@@ -1,0 +1,92 @@
+﻿@model UserViewModel
+@using MvcPL.Models
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center">Информация о пользователе</h2>
+
+<table align="center" border="1">
+    <tr>
+        <th>
+            @Html.Label("Email")
+        </th>
+        <th>
+            @Html.Label("Пароль")
+        </th>
+        <th>
+            @Html.Label("Имя пользователя")
+        </th>
+        <th>
+            @Html.Label("Роль")
+        </th>
+        <th></th>
+    </tr>
+
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => Model.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.Password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.Login)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.Role)
+        </td>
+    </tr>
+</table>
+
+
+
+
+    <h4 class="text-center" >Посты пользователя:</h4>
+    <table align="center" border="1">
+        <tr>
+            <th>
+                @Html.Label("Тема поста")
+            </th>
+            <th>
+                @Html.Label("Дата создания")
+            </th>
+            <th>
+                @Html.Label("Категория")
+            </th>
+            <th>
+                @Html.Label("Изменить")
+            </th>
+        </tr>
+
+        @foreach (var post in Model.UserPost)
+        {
+           
+            @*<ul>
+                <li class="badge">@Html.ActionLink(post.PostName, "SinglePost", "Post", new { id = post.PostId }, new { @class = "text-center" })</li>
+            </ul>*@
+            <tr>
+                <td>
+                    @Html.ActionLink(post.PostName, "SinglePost", "Post", new { id = post.PostId }, new { @class = "text-center" })
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => post.DateOfPost)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => post.SectionId)
+                </td>
+                <td>
+                    @Html.ActionLink("Редактировать", "EditPost", "Post", new { id = post.PostId }, new { @class = "text-center" }) |
+                    @Html.ActionLink("Удалить", "DeletePost", "Post", new { id = post.PostId }, new { @class = "text-center" })
+                </td>
+            </tr>
+        }
+    </table>
+  
+
+
+<p class="badge" style="vertical-align:middle">
+    @Html.ActionLink("Назад", "UserList")
+</p>
+

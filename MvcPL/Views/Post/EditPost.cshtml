@@ -1,0 +1,41 @@
+﻿@using MvcPL.Models
+@model PostViewModel
+
+
+@{
+    ViewBag.Title = "EditPost";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Редактировать пост</h2>
+@using (Html.BeginForm())
+{
+    <div class="badge">
+        @Html.ActionLink("Назад", "Details", "Admin", new { id = Model.AuthorId }, new { @class = "text-center" })
+    </div>
+    <div class="alert">
+        <div class="col-md-12">
+            <fieldset>
+                <div class="editor-field">
+                    @Html.DropDownListFor(model => model.Section, new SelectList(Enum.GetNames(typeof(Section))), string.Empty)
+                    </div>
+</fieldset>
+</div>
+        @Html.LabelFor(model => model.PostName, htmlAttributes: new { @class = "control-label col-md-5" })
+        <div class="col-md-10" style="margin-top:0px;margin-bottom:0px;display:block; ">
+            @Html.TextBoxFor(model => model.PostName, new { @style= "width: 350px;" })
+        </div>
+
+        @Html.LabelFor(model => model.Body, htmlAttributes: new { @class = "control-label col-md-5" })
+        <div style="border:5px dotted #CCC; width:45%;">
+            <div style="border:2px dotted #009999; margin: 5px 17px 5px 5px">
+                @Html.TextAreaFor(model => model.Body, new { @style = "width: 350px; height: 150px" })
+            </div>
+            <div class="col-md-12">
+                <input type="submit" class="btn btn-default" value="Сохранить" />
+            </div>
+</div>
+
+        </div>
+
+}

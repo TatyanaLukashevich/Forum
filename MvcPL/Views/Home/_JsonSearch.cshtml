@@ -1,0 +1,13 @@
+﻿@model IEnumerable<MvcPL.Models.PostViewModel>
+
+<div id="searchresults">
+
+    <h3>Все книги автора : @Model.First().AuthorLogin</h3>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@Html.ActionLink(item.PostName, "SinglePost", "Post", new { id = item.PostId }, new { @class = "text-center" })</li>
+        }
+    </ul>
+
+</div>

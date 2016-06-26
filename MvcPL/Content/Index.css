@@ -1,0 +1,373 @@
+﻿body {
+    background-color: #f8f8f8;
+    height:100%;
+}
+
+.postParent{
+    width: 100%;
+    height: 100%;
+    position:fixed;
+    top: 0;
+    left: 0;
+    overflow: auto;
+}
+
+.postChild{
+    height:80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -80px 20px 20px -500px;
+}
+
+/* Remove the navbar's default rounded borders and increase the bottom margin */
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+}
+
+/* Remove the jumbotron's default bottom margin */
+.jumbotron {
+    margin-bottom: 0;
+    /*background: url(images/homepage/header_background.png) no-repeat 0px 0px;*/
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+    position:fixed;
+    left: 0; 
+    bottom:0;
+    background-color: #f2f2f2;
+    padding: 25px;
+    width: 100%;
+}
+
+.row {
+    margin: 0px;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px #000000;
+}
+
+/*courosel style*/
+.carousel-inner > .item > img {
+    max-height: 600px;
+}
+
+.carousel-inner > .item > img {
+    margin: auto;
+}
+
+.img-carousel-description {
+    position: absolute;
+    bottom: 0;
+    height: 40%;
+    width: 100%;
+    background-color: #A73F4B;
+    opacity: 0.3;
+}
+
+.description-content {
+    z-index: 1;
+    position: absolute;
+    bottom: 10%;
+    left: 15%;
+    right: 15%;
+    width: 70%;
+}
+
+    .description-content > h2 {
+        text-shadow: 2px 2px 4px #000000;
+        font-size: 1.7vw;
+        color: #C1EAFF;
+    }
+/*courosel style end*/
+
+
+/*book cells style*/
+.inner_content {
+    background: #fff;
+    position: relative;
+}
+
+.product_image {
+    border: 10px solid #fff;
+}
+
+a.item_1 {
+    position: absolute;
+    bottom: 50px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    /*background: url(images/homepage/plus.png) no-repeat 8px 8px #FFD001;*/
+    color: #fff;
+    text-align: center;
+    line-height: 33px;
+    border: 4px solid rgba(107, 106, 105, 0.56);
+    font-size: 11px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+
+.product_container {
+    padding: 1em 0;
+}
+
+.cart-left {
+    float: left;
+    margin-right: 2.6%;
+}
+
+span.item_price {
+    color: #000;
+    font-size: 1em;
+    font-weight: bold;
+    float: right;
+}
+/*book cells style end*/
+
+
+/*handmade style for vertical menu*/
+
+.verical-nav > li:not(:last-child) {
+    border-bottom: 1px solid #080808;
+}
+
+.verical-nav > .active > a,
+.verical-nav > .active > a:focus,
+.verical-nav > .active > a:hover {
+    color: #fff;
+    background-color: #080808;
+}
+
+.verical-nav > li > a:focus,
+.verical-nav > li > a:hover {
+    color: #fff;
+    background-color: transparent;
+}
+
+.verical-nav > li > a {
+    color: #9d9d9d;
+    padding: 10px 15px;
+}
+
+@media(max-width: 1200px) {
+    .col-sm-2, .col-sm-2 > .container-fluid {
+        padding: 0;
+    }
+}
+
+#verticalNav > ul {
+    display: none;
+}
+
+.fixedHorisontal {
+    z-index: 100;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.fixedVertical {
+    position: fixed;
+    top: 100px;
+}
+
+@media(max-width: 767px) {
+    #verticalNav > .verical-nav > li > a {
+        font-size: 14px;
+    }
+
+    #verticalNav > ul {
+        display: block;
+    }
+
+    .nav-disabled {
+        display: none;
+    }
+
+    a.navbar-toggle {
+        float: none;
+    }
+
+    .description-content > h2 {
+        font-size: 1.6vh;
+        color: #C1EAFF;
+    }
+}
+/*************************************/
+
+/*-------authors panel style-----------*/
+@media(max-width: 1305px) {
+    .panel {
+        background-color: transparent;
+        border: none;
+    }
+
+    .athor-description, .further {
+        display: none;
+    }
+
+    .author-panel {
+        min-width: 100px !important;
+    }
+
+    .panel-body {
+        padding: 0;
+    }
+}
+
+.panel-body {
+    position: relative;
+}
+
+.author-panel {
+    min-width: 170px;
+}
+
+.author-img {
+    width: 100px;
+    margin: auto;
+}
+
+.athor-description {
+    max-height: 140px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+.further {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+29&0+0,1+47,1+71,1+71,1+91,1+91 */
+    background: -moz-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 19%, rgba(255,255,255,1) 47%, rgba(255,255,255,1) 71%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 19%,rgba(255,255,255,1) 47%,rgba(255,255,255,1) 71%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 19%,rgba(255,255,255,1) 47%,rgba(255,255,255,1) 71%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=1 );
+    width: 150px;
+    height: 16px;
+    position: absolute;
+    bottom: 17px;
+    right: 5px;
+    z-index: 1;
+}
+
+    .further > a {
+        display: block;
+        padding: 0 0 0 30px;
+    }
+
+        .further > a:focus {
+            outline: none;
+            text-decoration: none;
+        }
+/*-------authors panel style ends-----------*/
+
+
+/*----------search style--------------------*/
+.search-area {
+    position: relative;
+    width: 250px;
+    height: 50px;
+}
+
+    .search-area input[type="text"] {
+        padding: 0px 10px;
+        outline: none;
+        color: #000;
+        background: #F8F8F8;
+        border: none;
+        width: 200px;
+        line-height: 50px;
+        font-size: 1em;
+        text-transform: capitalize;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 50px;
+    }
+
+    .search-area  button {
+        border-radius: 0;
+        width: 50px;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        height: 50px;
+    }
+
+    .search-area, .search-area > input {
+        border: none;
+        padding: 0 10px;
+    }
+
+.seach-result {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    z-index: 200;
+    width: 200%;
+    background-color: white;
+    max-height: 500px;
+    overflow-y: scroll;
+}
+
+    .seach-result > .list-group {
+        margin: 0;
+    }
+
+@media(max-width: 767px) {
+    .search-area {
+        width: 100%;
+    }
+
+    .seach-result {
+        width: 100%;
+    }
+
+    .search-area input[type="text"] {
+        width: 100%;
+        padding-right: 60px;
+    }
+    .post-search>ul {
+        margin-bottom: 0;
+    }
+}
+/*----------search style end-----------------*/
+
+/*----------modal style--------------------*/
+.modal-title {
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+/*----------end modal style--------------------*/
+
+div.cropbox .btn-file {
+    position: relative;
+    overflow: hidden;
+}
+div.cropbox .btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+div.cropbox .cropped {
+    margin-top: 10px;
+}

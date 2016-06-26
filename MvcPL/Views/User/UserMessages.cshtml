@@ -1,0 +1,18 @@
+﻿@model IEnumerable<MvcPL.Models.MessageViewModel>
+
+@{
+    ViewBag.Title = "UserMessages";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>UserMessages</h2>
+
+
+
+@foreach (var item in Model) {
+    
+           <li> @Html.DisplayFor(modelItem => item.DateOfPost)
+            @Html.DisplayFor(modelItem => item.Body) </li>
+      
+}
+

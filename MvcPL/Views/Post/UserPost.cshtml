@@ -1,0 +1,58 @@
+﻿@model IEnumerable<MvcPL.Models.PostViewModel>
+@using MvcPL.Models
+
+@{
+    ViewBag.Title = "UserPost";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Мои посты</h2>
+
+@if (Model.Count() != 0)
+{
+    <table>
+        <tr>
+            <th>
+                @Html.DisplayName("Тема поста")
+            </th>
+
+            <th>
+                @Html.DisplayName("Дата создания")
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink(Html.DisplayFor(modelItem => item.PostName).ToString(), "SinglePost", new { id = item.PostId });
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateOfPost)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateOfPost)
+                </td>
+                <td>
+                    @Html.ActionLink("Удалить", "DeletePost", "Post", new { id = item.PostId }, new { @class = "text-center" })
+                </td> 
+            </tr>
+        }
+
+    </table>
+}
+
+else
+{
+    <p>
+        <h2 class="badge" style="font-size:x-large; color:steelblue"> Вы не создали ни одного поста.</h2>
+    </p>
+}
+<p></p>
+<p>
+    <div class="badge">
+        @Html.ActionLink("Создать новый пост", "CreatePost")
+    </div>
+</p>

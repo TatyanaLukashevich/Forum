@@ -1,0 +1,53 @@
+﻿@model PagedList.IPagedList<MvcPL.Models.PostViewModel>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "PostInSection";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (Model.Count() != 0)
+{
+
+    <div class="col-md-12">
+       
+        <div class="container-fluid">
+            <div class="col-sm-8" style="background-color:lavender;">Тема/ Автор</div>
+            <div class="col-sm-2" style="background-color:lavenderblush;">Дата</div>
+            <div class="col-sm-2" style="background-color:lavender;">Количество сообщений</div>
+        </div>
+        
+        <div class="container-fluid">
+            
+                @foreach (var post in Model)
+                {
+                  <hr />
+                    <div class="col-sm-8" style="background-color:lavender;">
+                        @Html.ActionLink(post.AuthorLogin, "UserPage", "User", new { id = post.AuthorId }, new { @class = "text-center" }):
+                        @Html.ActionLink(post.PostName, "SinglePost", "Post", new { id = post.PostId }, new { @class = "text-center" });
+                    </div>
+                    <div class="col-sm-2" style="background-color:lavenderblush;">@Html.DisplayFor(modelItem => post.DateOfPost)</div>
+                    <div class="col-sm-2" style="background-color:lavender;">@Html.DisplayFor(modelItem => post.AmountMessages)</div>
+                    @*<div class="col-sm-2" style="background-color:lavender;">@Html.Action("AmountOfMessages", "Post")</div>*@
+
+
+                }
+        </div>
+        <p></p>
+        <div class="badge">
+            @Html.ActionLink("Назад", "Index")
+        </div>
+       
+
+        Страница @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) из @Model.PageCount
+
+        @Html.PagedListPager(Model, page => Url.Action("PostInSection", "Home", new { page }))
+    </div>
+}
+else
+{
+    <p>
+        <h2 class="badge" style="font-size:x-large; color:steelblue"> В категории нет ни одной темы</h2>
+    </p>
+}
+
